@@ -6,14 +6,23 @@ Both overall and age-specific templates were constructed for babies aged at 0, 1
 
 # List of templates 
 CUHK_Neo T2w: T2-weighted (T2w) template of infants aged from 0 to 3 months old. 
+
 CUHK_Neo_0 T2w: T2w template of infants aged at 0 month of age.
+
 CUHK_Neo_1 T2w: T2w template of infants aged at 1 month of age.
+
 CUHK_Neo_2 T2w: T2w template of infants aged at 2 months of age.
+
 CUHK_Neo_3 T2w: T2w template of infants aged at 3 months of age.
+
 CUHK_Neo T1w: T1-weighted (T1w) template of infants aged from 0 to 3 months old. 
+
 CUHK_Neo_0 T1w: T1w template of infants aged at 0 month of age.
+
 CUHK_Neo_1 T1w: T1w template of infants aged at 1 month of age.
+
 CUHK_Neo_2 T1w: T1w template of infants aged at 2 months of age.
+
 CUHK_Neo_3 T1w: T1w template of infants aged at 3 months of age.
 
 # Sample images of templates 
