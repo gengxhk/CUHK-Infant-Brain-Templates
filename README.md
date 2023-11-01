@@ -1,29 +1,46 @@
 # CUHK-Infant-Brain-Templates
 
-This project aimed to construct MRI structural infant brain templates for Chinese babies aged from 0 to 3 months old. A total of 112 babies from 6 to 98 days of age were included. Both t1-weighted and T2-weighted MRI data were used to build brain templates using an unbiased registration approach. The template construction and evaluation procedure can be referred by Geng et al. (2023). 
+This project aimed to construct MRI structural infant brain templates for Chinese babies aged from 0 to 3 months old. A total of 112 babies from 6 to 89 days of age were included. Both t1-weighted and T2-weighted MRI data were used to build brain templates using an unbiased registration approach. The template construction and evaluation procedure can be referred by Geng et al. (2023). 
 
 Both overall and age-specific templates were constructed for babies aged at 0, 1, 2, and 3 months old. These templates can be used for investigating birth related conditions such as preterm birth, detecting neural biomarkers for neurological and neurodevelopmental disorders in Chinese populations, and exploring genetic and cultural effects on the brain. 
 
 # List of templates 
-CUHK_Neo T2w: T2-weighted (T2w) template of infants aged from 0 to 3 months old. 
+CUHK_Neo_0to3m_Head_T2w: T2-weighted (T2w) head template of infants aged from 0 to 3 months old. 
 
-CUHK_Neo_0 T2w: T2w template of infants aged at 0 month of age.
+CUHK_Neo_0to3m_Brain_T2w: T2-weighted (T2w) brain template of infants aged from 0 to 3 months old. 
 
-CUHK_Neo_1 T2w: T2w template of infants aged at 1 month of age.
+CUHK_Neo_0m_Head_T2w: T2-weighted (T2w) head template of infants aged at 0 month of age.  
 
-CUHK_Neo_2 T2w: T2w template of infants aged at 2 months of age.
+CUHK_Neo_0m_Brain_T2w: T2-weighted (T2w) brain template of infants aged at 0 month of age.
 
-CUHK_Neo_3 T2w: T2w template of infants aged at 3 months of age.
+CUHK_Neo_1m_Head_T2w: T2-weighted (T2w) head template of infants aged at 1 month of age.  
 
-CUHK_Neo T1w: T1-weighted (T1w) template of infants aged from 0 to 3 months old. 
+CUHK_Neo_1m_Brain_T2w: T2-weighted (T2w) brain template of infants aged at 1 month of age.
 
-CUHK_Neo_0 T1w: T1w template of infants aged at 0 month of age.
+CUHK_Neo_2m_Head_T2w: T2-weighted (T2w) head template of infants aged at 2 months of age.  
 
-CUHK_Neo_1 T1w: T1w template of infants aged at 1 month of age.
+CUHK_Neo_2m_Brain_T2w: T2-weighted (T2w) brain template of infants aged at 2 months of age.
 
-CUHK_Neo_2 T1w: T1w template of infants aged at 2 months of age.
+CUHK_Neo_3m_Head_T2w: T2-weighted (T2w) head template of infants aged at 3 months of age.  
 
-CUHK_Neo_3 T1w: T1w template of infants aged at 3 months of age.
+CUHK_Neo_3m_Brain_T2w: T2-weighted (T2w) brain template of infants aged at 3 months of age.
+
+CUHK_Neo_0to3m_Head_T1w: T1-weighted (T1w) head template of infants aged from 0 to 3 months old. 
+
+CUHK_Neo_0to3m_Brain_T1w: T1-weighted (T1w) brain template of infants aged from 0 to 3 months old. 
+
+CUHK_Neo_1m_Head_T1w: T1-weighted (T1w) head template of infants aged at 1 month of age.  
+
+CUHK_Neo_1m_Brain_T1w: T1-weighted (T1w) brain template of infants aged at 1 month of age.
+
+CUHK_Neo_2m_Head_T1w: T1-weighted (T1w) head template of infants aged at 2 months of age.  
+
+CUHK_Neo_2m_Brain_T1w: T1-weighted (T1w) brain template of infants aged at 2 months of age.
+
+CUHK_Neo_3m_Head_T1w: T1-weighted (T1w) head template of infants aged at 3 months of age.  
+
+CUHK_Neo_3m_Brain_T1w: T1-weighted (T1w) brain template of infants aged at 3 months of age.
+
 
 # Sample images of templates 
 <img width="452" alt="image" src="https://github.com/gengxhk/CUHK-Infant-Brain-Templates/assets/138180267/64bd942e-45b4-40e3-a566-8c68bd4d10ff">
