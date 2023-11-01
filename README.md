@@ -4,7 +4,7 @@ This project aimed to construct MRI structural infant brain templates for Chines
 
 Both overall and age-specific templates were constructed for babies aged at 0, 1, 2, and 3 months old. These templates can be used for investigating birth related conditions such as preterm birth, detecting neural biomarkers for neurological and neurodevelopmental disorders in Chinese populations, and exploring genetic and cultural effects on the brain. 
 
-# List of templates 
+# List of templates and label images
 CUHK_Neo_0to3m_Head_T2w: T2-weighted (T2w) head template of infants aged from 0 to 3 months old. 
 
 CUHK_Neo_0to3m_Brain_T2w: T2-weighted (T2w) brain template of infants aged from 0 to 3 months old. 
@@ -41,9 +41,32 @@ CUHK_Neo_3m_Head_T1w: T1-weighted (T1w) head template of infants aged at 3 month
 
 CUHK_Neo_3m_Brain_T1w: T1-weighted (T1w) brain template of infants aged at 3 months of age.
 
+CUHK_Neo_0to3m_Seg:  Brain tissue segmentation for infants aged from 0 to 3 months old. 
+
+CUHK_Neo_0m_Seg:  Brain tissue segmentation for infants aged at 0 month.
+
+CUHK_Neo_1m_Seg:  Brain tissue segmentation for infants aged at 1 month.
+
+CUHK_Neo_2m_Seg:  Brain tissue segmentation for infants aged at 2 months.
+
+CUHK_Neo_3m_Seg:  Brain tissue segmentation for infants aged at 3 months.
+
+
+CUHK_Neo_0to3m_82ROIs: Brain parcellation of 82 ROIs for infants aged from 0 to 3 months old. 
+
+CUHK_Neo_0m_82ROIs: Brain parcellation of 82 ROIs for infants aged at 0 month. 
+
+CUHK_Neo_1m_82ROIs: Brain parcellation of 82 ROIs for infants aged at 1 month. 
+
+CUHK_Neo_2m_82ROIs: Brain parcellation of 82 ROIs for infants aged at 2 months. 
+
+CUHK_Neo_3m_82ROIs: Brain parcellation of 82 ROIs for infants aged at 3 months. 
+
+
+
 
 # Sample images of templates 
-<img width="452" alt="image" src="https://github.com/gengxhk/CUHK-Infant-Brain-Templates/assets/138180267/64bd942e-45b4-40e3-a566-8c68bd4d10ff">
+<img width="452" alt="image" src="https://github.com/gengxhk/CUHK-Infant-Brain-Templates/blob/main/fig_templates_labels.jpg">
 
 # Reference/Citation of related work
 
